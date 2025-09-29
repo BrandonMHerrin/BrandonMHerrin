@@ -12,6 +12,14 @@ I'm Brandon, I love solving problems with technology and love how much can be ac
 - My favorite languages are: sql, javascript, typscript, html, and css.
 - I do have exerpience with python and c# as well.
 
+## Projects
+Most of the projects are proprietary and are not public.
+
+- PTO management application
+- Tractor positions map
+- Enterprise grade nextjs application
+- AR Imaging Project
+
 ## Let's Connect
 - Here is my [LinkedIn](https://www.linkedin.com/in/brandonherrin2/) profile.
 
